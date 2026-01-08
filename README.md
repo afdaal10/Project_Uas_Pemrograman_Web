@@ -7,6 +7,9 @@ Sistem informasi manajemen stok barang berbasis web yang dibangun untuk memenuhi
 **NIM:** 312410445  
 
 **Kelas:** TI 24 A5
+
+
+
 ---
 
 ## 1. Deskripsi Project
