@@ -1,4 +1,4 @@
-# 📦 NEXUS INVENTORY - DOCUMENTATION (PROJECT UAS)
+# NEXUS INVENTORY - DOCUMENTATION (PROJECT UAS)
 
 Sistem informasi manajemen stok barang berbasis web yang dibangun untuk memenuhi tugas **Final Semester Exam (UAS)** mata kuliah Pemrograman Berorientasi Objek. Aplikasi ini dirancang dengan antarmuka modern menggunakan tema **Nexus Blue** yang responsif dan elegan.
 
@@ -9,16 +9,16 @@ Sistem informasi manajemen stok barang berbasis web yang dibangun untuk memenuhi
 **Kelas:** TI 24 A5
 ---
 
-## 📝 1. Deskripsi Project
+## 1. Deskripsi Project
 **NEXUS INVENTORY** adalah aplikasi pengelolaan data inventaris yang memudahkan administrator untuk memantau stok barang, nilai aset, dan informasi operasional lainnya secara *real-time*. Program ini dibangun menggunakan arsitektur modular dengan bahasa pemrograman PHP (OOP) dan MySQL sebagai basis datanya.
 
-## 🎯 2. Tujuan Project
+## 2. Tujuan Project
 * **Implementasi OOP**: Menerapkan konsep Class, Object, Encapsulation, dan Constructor dalam PHP.
 * **Manajemen Database**: Mengelola relasi data antara aplikasi dan database MySQL (latihan1).
 * **URL Routing**: Mengimplementasikan sistem Front Controller menggunakan `.htaccess` untuk URL yang lebih rapi (SEO Friendly).
 * **Keamanan Data**: Menerapkan sistem autentikasi berbasis session untuk melindungi data inventaris dari akses tidak sah.
 
-## 📂 3. Struktur Directory Lengkap
+## 3. Struktur Directory Lengkap
 Semua kode program disimpan dalam repository dengan pengorganisasian folder sebagai berikut:
 
 ```text
@@ -41,7 +41,7 @@ PROJECT_UAS/
 └── index.php           # Entry point utama aplikasi
 ```
 
-## 🚀 4. Penjelasan Fitur
+## 4. Penjelasan Fitur
 Aplikasi ini memiliki beberapa fitur inti yang saling terintegrasi:
 
 1.  **Sistem Autentikasi (Secure Login)**:
