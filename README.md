@@ -1,10 +1,12 @@
 # 📦 NEXUS INVENTORY - DOCUMENTATION (PROJECT UAS)
 
 Sistem informasi manajemen stok barang berbasis web yang dibangun untuk memenuhi tugas **Final Semester Exam (UAS)** mata kuliah Pemrograman Berorientasi Objek. Aplikasi ini dirancang dengan antarmuka modern menggunakan tema **Nexus Blue** yang responsif dan elegan.
-**Pengembang:** Afdhal  
-**Instansi:** Teknik Informatika - Universitas Pelita Bangsa  
-**Tahun:** 2026
 
+**Nama:** Afdhal Agislam
+
+**NIM:** 312410445  
+
+**Kelas:** TI 24 A5
 ---
 
 ## 📝 1. Deskripsi Project
@@ -137,17 +139,62 @@ Berikut adalah alur penggunaan aplikasi Nexus Inventory:
 
 ### 4. Halaman About: Profil lengkap pengembang sebagai bukti orisinalitas karya.
 
-**- Proses Login (Autentikasi)**
+**- Halaman Login (Autentikasi)**
 Halaman login dengan validasi Role. Admin dan User memiliki dashboard yang berbeda.
+![Screenshot edit](edit_user.png)
+
+**- Dashboard Utama**
+Ringkasan statistik data barang dan aset perusahaan setelah berhasil login.
+![Screenshot edit](edit_user.png)
+
+**- Manajemen Data Barang**
+Halaman utama untuk melihat dan mengelola daftar stok inventaris secara mendetail.
+![Screenshot edit](edit_user.png)
+
+**- Halaman About:**
+Profil resmi pengembang aplikasi.
+![Screenshot edit](edit_user.png)
+
+**- Tampilan Login User :**
+Tampilan dari sisi user :
+![Screenshot edit](edit_user.png)
+
+![Screenshot edit](edit_user.png)
+
+**- Tampilan Login Admin :**
+![Screenshot edit](edit_user.png)
+
+**- Filter Pencarian (Filter Search)**
+Fitur pencarian barang berdasarkan nama atau kategori secara real-time.
+![Screenshot edit](edit_user.png)
+
+**- Tampilan Pagination**
+Menampilkan daftar barang. Terdapat fitur Pagination di bagian bawah.
+![Screenshot edit](edit_user.png)
+
+**- Tampilan Tambah Data (Admin Only)**
+Formulir untuk memasukkan data barang baru dan upload gambar produk.
+![Screenshot edit](edit_user.png)
+
+**- Tampilan Edit Data (Admin Only)**
+Formulir untuk mengubah informasi stok atau harga barang.
+![Screenshot edit](edit_user.png)
+
+**- Tampilan Hapus Data (Admin Only)**
+Validasi konfirmasi (alert) sebelum menghapus data untuk mencegah kesalahan.
+![Screenshot edit](edit_user.png)
+
+
+## © 2026 Nexus Inventory System - Project UAS Afdhal Agislam.
 
 
 
-## 📂 5. Struktur Direktori
-```text
-PROJECT_UAS/
-├── class/              # Logic OOP (Auth.php, database.php)
-├── modules/            # Konten modular (auth, barang, home, about)
-├── templates/          # UI Global (header, footer)
-├── images/             # Asset gambar dan foto profil
-├── .htaccess           # Konfigurasi routing
-└── index.php           # Entry point aplikasi
+
+
+
+
+
+
+
+
+
