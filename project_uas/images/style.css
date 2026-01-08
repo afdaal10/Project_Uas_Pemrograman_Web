@@ -1,0 +1,92 @@
+/* style.css - Tema Biru Modern */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+:root {
+    --primary-blue: #0d47a1; /* Biru Tua Utama */
+    --light-blue: #e3f2fd;   /* Latar Belakang Biru Muda */
+    --accent-blue: #1976d2;  /* Biru Aksen Tombol */
+    --white: #ffffff;
+    --text-dark: #1e293b;
+    --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+body {
+    background-color: var(--light-blue); /* Latar belakang biru */
+    font-family: 'Poppins', sans-serif;
+    color: var(--text-dark);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Navbar Biru Keren */
+.navbar {
+    background: linear-gradient(90deg, var(--primary-blue), var(--accent-blue)) !important;
+    box-shadow: var(--shadow);
+    padding: 15px 0;
+}
+
+.navbar-brand {
+    color: var(--white) !important;
+    font-weight: 700;
+    font-size: 1.4rem;
+}
+
+.nav-link {
+    color: rgba(255,255,255,0.9) !important;
+    margin-left: 15px;
+    transition: 0.3s;
+}
+
+.nav-link:hover {
+    color: #fff !important;
+    transform: translateY(-2px);
+    text-shadow: 0 0 5px rgba(255,255,255,0.5);
+}
+
+/* Card / Kotak Konten */
+.card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+    background: var(--white);
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+.card-header {
+    background-color: var(--white);
+    border-bottom: 2px solid var(--light-blue);
+    padding: 20px;
+}
+
+.card-header h3 {
+    color: var(--primary-blue);
+    font-weight: 600;
+    margin: 0;
+}
+
+/* Tabel */
+.table thead {
+    background-color: var(--primary-blue);
+    color: var(--white);
+}
+
+/* Tombol */
+.btn-primary {
+    background-color: var(--accent-blue);
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: var(--primary-blue);
+}
+
+/* Footer */
+footer {
+    margin-top: auto;
+    background-color: var(--primary-blue);
+    color: var(--white);
+    padding: 15px 0;
+    text-align: center;
+}
