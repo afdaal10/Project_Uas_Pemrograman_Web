@@ -151,15 +151,16 @@ require 'modules/' . $page . '.php';
 ## Dokumentasi Proses Aplikasi
 Berikut adalah alur penggunaan aplikasi Nexus Inventory:
 
-### 1. Halaman Login: Portal awal untuk verifikasi akun (Admin/User).
+ **1. Halaman Login: Portal awal untuk verifikasi akun (Admin/User).**
 
-### 2. Dashboard Utama: Menampilkan ringkasan data inventaris dan nilai aset.
+**2. Dashboard Utama: Menampilkan ringkasan data inventaris dan nilai aset.**
 
-### 3. Daftar Barang: Tabel inventaris dengan fitur CRUD yang aktif berdasarkan Role.
+**3. Daftar Barang: Tabel inventaris dengan fitur CRUD yang aktif berdasarkan Role.**
 
-### 4. Halaman About: Profil lengkap pengembang sebagai bukti orisinalitas karya.
+**4. Halaman About: Profil lengkap pengembang sebagai bukti orisinalitas karya.**
 
-**- Halaman Login (Autentikasi)**
+- **Halaman Login (Autentikasi)**
+
 Halaman login dengan validasi Role. Admin dan User memiliki dashboard yang berbeda.
 
 ![Screenshot edit](dokumentasi_project/tampilan_login.png)
