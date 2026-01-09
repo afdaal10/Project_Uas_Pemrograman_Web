@@ -21,6 +21,23 @@ Sistem informasi manajemen stok barang berbasis web yang dibangun untuk memenuhi
 * **URL Routing**: Mengimplementasikan sistem Front Controller menggunakan `.htaccess` untuk URL yang lebih rapi (SEO Friendly).
 * **Keamanan Data**: Menerapkan sistem autentikasi berbasis session untuk melindungi data inventaris dari akses tidak sah.
 
+## Link Demo Aplikasi
+
+Aplikasi sudah di-hosting dan dapat diakses di sini:
+
+**- URL: https://afdaal.xo.je/**
+
+**- Akun Admin:**
+
+- Username: admin
+- Password: 123456
+  
+**- Akun User:**
+
+- Username: user
+- Password: 123456
+
+
 ## 3. Struktur Directory Lengkap
 Semua kode program disimpan dalam repository dengan pengorganisasian folder sebagai berikut:
 
