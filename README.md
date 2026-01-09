@@ -199,7 +199,7 @@ Tampilan dari sisi user :
 
 Fitur pencarian barang berdasarkan nama atau kategori secara real-time.
 
-![Screenshot edit](dokumentasi_project/tampilan_filter_pencarian.png)
+![Screenshot edit](tampilan_filter_search.png)
 
 - **Tampilan Pagination**
 
