@@ -161,7 +161,7 @@ Berikut adalah alur penggunaan aplikasi Nexus Inventory:
 
 **- Halaman Login (Autentikasi)**
 Halaman login dengan validasi Role. Admin dan User memiliki dashboard yang berbeda.
-![Screenshot edit](edit_user.png)
+(dokumentasi_project/tampilan_login.png)
 
 **- Dashboard Utama**
 Ringkasan statistik data barang dan aset perusahaan setelah berhasil login.
