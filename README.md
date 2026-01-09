@@ -166,7 +166,7 @@ Halaman login dengan validasi Role. Admin dan User memiliki dashboard yang berbe
 ![Screenshot edit](dokumentasi_project/tampilan_login.png)
 
 - **Dashboard Utama**
-- 
+  
 Ringkasan statistik data barang dan aset perusahaan setelah berhasil login.
 
 ![Screenshot edit](dokumentasi_project/tampilan_dashboard.png)
@@ -223,7 +223,7 @@ Formulir untuk mengubah informasi stok atau harga barang.
 
 Validasi konfirmasi (alert) sebelum menghapus data untuk mencegah kesalahan.
 
-![Screenshot edit]()dokumentasi_project/tampilan_hapus_data.png
+![Screenshot edit](dokumentasi_project/tampilan_hapus_data.png)
 
 
 ## © 2026 Nexus Inventory System - Project UAS Afdhal Agislam.
