@@ -25,7 +25,7 @@ Sistem informasi manajemen stok barang berbasis web yang dibangun untuk memenuhi
 
 Aplikasi sudah di-hosting dan dapat diakses di sini:
 
-**- URL: https://afdaal.xo.je/**
+**-URL: https://afdaal.xo.je/**
 
 **- Akun Admin:**
 
