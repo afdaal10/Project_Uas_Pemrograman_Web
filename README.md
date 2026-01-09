@@ -27,12 +27,12 @@ Aplikasi sudah di-hosting dan dapat diakses di sini:
 
 - **URL:** https://afdaal.xo.je/
 
-**- Akun Admin:**
+- **Akun Admin:**
 
 - Username: admin
 - Password: 123456
   
-**- Akun User:**
+- **Akun User:**
 
 - Username: user
 - Password: 123456
