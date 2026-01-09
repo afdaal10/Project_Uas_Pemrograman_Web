@@ -165,46 +165,65 @@ Halaman login dengan validasi Role. Admin dan User memiliki dashboard yang berbe
 
 ![Screenshot edit](dokumentasi_project/tampilan_login.png)
 
-**- Dashboard Utama**
+- **Dashboard Utama**
+- 
 Ringkasan statistik data barang dan aset perusahaan setelah berhasil login.
-![Screenshot edit](edit_user.png)
 
-**- Manajemen Data Barang**
+![Screenshot edit](dokumentasi_project/tampilan_dashboard.png)
+
+- **Manajemen Data Barang**
+  
 Halaman utama untuk melihat dan mengelola daftar stok inventaris secara mendetail.
-![Screenshot edit](edit_user.png)
 
-**- Halaman About:**
+![Screenshot edit](dokumentasi_project/tampilan_data_barang.png)
+
+- **Halaman About:**
+
 Profil resmi pengembang aplikasi.
-![Screenshot edit](edit_user.png)
 
-**- Tampilan Login User :**
+![Screenshot edit](dokumentasi_project/tampilan_about.png)
+
+- **Tampilan Login User :**
+
 Tampilan dari sisi user :
-![Screenshot edit](edit_user.png)
 
-![Screenshot edit](edit_user.png)
+![Screenshot edit](dokumentasi_project/tampilan_dari_user.png)
 
-**- Tampilan Login Admin :**
-![Screenshot edit](edit_user.png)
+![Screenshot edit](dokumentasi_project/tampilan_dari_user1.png)
 
-**- Filter Pencarian (Filter Search)**
+- **Tampilan Login Admin :**
+
+![Screenshot edit](dokumentasi_project/tampilan_data_barang.png)
+
+- **Filter Pencarian (Filter Search)**
+
 Fitur pencarian barang berdasarkan nama atau kategori secara real-time.
-![Screenshot edit](edit_user.png)
 
-**- Tampilan Pagination**
+![Screenshot edit](dokumentasi_project/tampilan_filter_pencarian.png)
+
+- **Tampilan Pagination**
+
 Menampilkan daftar barang. Terdapat fitur Pagination di bagian bawah.
-![Screenshot edit](edit_user.png)
 
-**- Tampilan Tambah Data (Admin Only)**
+![Screenshot edit](dokumentasi_project/tampilan_pagination.png)
+
+- **Tampilan Tambah Data (Admin Only)**
+
 Formulir untuk memasukkan data barang baru dan upload gambar produk.
-![Screenshot edit](edit_user.png)
 
-**- Tampilan Edit Data (Admin Only)**
+![Screenshot edit](dokumentasi_project/tampilan_tambah_data.png)
+
+- **Tampilan Edit Data (Admin Only)**
+
 Formulir untuk mengubah informasi stok atau harga barang.
-![Screenshot edit](edit_user.png)
 
-**- Tampilan Hapus Data (Admin Only)**
+![Screenshot edit](dokumentasi_project/tampilan_ubah_data.png)
+
+- **Tampilan Hapus Data (Admin Only)**
+
 Validasi konfirmasi (alert) sebelum menghapus data untuk mencegah kesalahan.
-![Screenshot edit](edit_user.png)
+
+![Screenshot edit]()dokumentasi_project/tampilan_hapus_data.png
 
 
 ## © 2026 Nexus Inventory System - Project UAS Afdhal Agislam.
